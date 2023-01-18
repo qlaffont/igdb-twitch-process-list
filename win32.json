@@ -16,5 +16,11 @@
     "windowTitle": "Inscryption.exe",
     "igdbId": "139090",
     "twitchCategoryId": "1147745783"
+  },
+  {
+    "processName": "PowerWashSimulator.exe",
+    "windowTitle": "PowerWashSimulator.exe",
+    "igdbId": "138590",
+    "twitchCategoryId": "519103"
   }
 ]
