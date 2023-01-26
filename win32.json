@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "GolfIt.exe",
+    "windowTitle": "GolfIt.exe",
+    "igdbId": "30099",
+    "twitchCategoryId": "495764"
   }
 ]
