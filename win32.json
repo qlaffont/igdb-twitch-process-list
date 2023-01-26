@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "NeonAbyss.exe",
+    "windowTitle": "NeonAbyss.exe",
+    "igdbId": "116100",
+    "twitchCategoryId": "512017"
   }
 ]
