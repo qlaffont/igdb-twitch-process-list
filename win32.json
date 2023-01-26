@@ -118,5 +118,11 @@
     "windowTitle": "r5apex.exe",
     "igdbId": "114795",
     "twitchCategoryId": "511224"
+  },
+  {
+    "processName": "VALORANT.exe",
+    "windowTitle": "VALORANT.exe",
+    "igdbId": "126459",
+    "twitchCategoryId": "516575"
   }
 ]
