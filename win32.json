@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "hlvr.exe",
+    "windowTitle": "hlvr.exe",
+    "igdbId": "126098",
+    "twitchCategoryId": "515195"
   }
 ]
