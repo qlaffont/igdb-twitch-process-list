@@ -28,5 +28,11 @@
     "windowTitle": "FortniteClient-Win64-Shipping.exe",
     "igdbId": "1905",
     "twitchCategoryId": "33214"
+  },
+  {
+    "processName": "r5apex.exe",
+    "windowTitle": "r5apex.exe",
+    "igdbId": "114795",
+    "twitchCategoryId": "511224"
   }
 ]
