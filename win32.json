@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "r5apex.exe",
+    "windowTitle": "r5apex.exe",
+    "igdbId": "114795",
+    "twitchCategoryId": "511224"
   }
 ]
