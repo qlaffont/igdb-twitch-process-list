@@ -1,13 +1,13 @@
 [
   {
     "processName": "cod.exe",
-    "windowTitle": "?C?a?l?l? ?o?f? ?D?u?t?y?�? ?H?Q??????????????????",
+    "windowTitle": "cod.exe",
     "igdbId": "200165",
     "twitchCategoryId": "1678052513"
   },
   {
     "processName": "sp22-cod.exe",
-    "windowTitle": "C?a?l?l? ?o?f? ?D?u?t?y?�?:? ?M?o?d?e?r?n? ?W?a?r?f?a?r?e?�? ?I?I? ?S?P????????????????????????????????????????????????????????",
+    "windowTitle": "sp22-cod.exe",
     "igdbId": "200165",
     "twitchCategoryId": "1678052513"
   },
@@ -28,5 +28,59 @@
     "windowTitle": "GolfIt.exe",
     "igdbId": "30099",
     "twitchCategoryId": "495764"
+  },
+  {
+    "processName": "hlvr.exe",
+    "windowTitle": "hlvr.exe",
+    "igdbId": "126098",
+    "twitchCategoryId": "515195"
+  },
+  {
+    "processName": "ktane.exe",
+    "windowTitle": "ktane.exe",
+    "igdbId": "13226",
+    "twitchCategoryId": "461492"
+  },
+  {
+    "processName": "NeonAbyss.exe",
+    "windowTitle": "NeonAbyss.exe",
+    "igdbId": "116100",
+    "twitchCategoryId": "512017"
+  },
+  {
+    "processName": "pCARS2AVX.exe",
+    "windowTitle": "pCARS2AVX.exe",
+    "igdbId": "26709",
+    "twitchCategoryId": "495563"
+  },
+  {
+    "processName": "uyw.exe",
+    "windowTitle": "uyw.exe",
+    "igdbId": "28113",
+    "twitchCategoryId": "494859"
+  },
+  {
+    "processName": "teardown.exe",
+    "windowTitle": "teardown.exe",
+    "igdbId": "122666",
+    "twitchCategoryId": "514795"
+  },
+  {
+    "processName": "RocketLeague.exe",
+    "windowTitle": "RocketLeague.exe",
+    "igdbId": "11198",
+    "twitchCategoryId": "30921"
+  },
+  {
+    "processName": "FortniteClient-Win64-Shipping.exe",
+    "windowTitle": "FortniteClient-Win64-Shipping.exe",
+    "igdbId": "1905",
+    "twitchCategoryId": "33214"
+  },
+  {
+    "processName": "r5apex.exe",
+    "windowTitle": "r5apex.exe",
+    "igdbId": "114795",
+    "twitchCategoryId": "511224"
   }
 ]
