@@ -24,6 +24,12 @@
     "twitchCategoryId": "519103"
   },
   {
+    "processName": "GolfIt.exe",
+    "windowTitle": "GolfIt.exe",
+    "igdbId": "30099",
+    "twitchCategoryId": "495764"
+  },
+  {
     "processName": "hlvr.exe",
     "windowTitle": "hlvr.exe",
     "igdbId": "126098",
