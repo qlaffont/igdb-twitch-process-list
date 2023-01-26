@@ -24,6 +24,12 @@
     "twitchCategoryId": "519103"
   },
   {
+    "processName": "uyw.exe",
+    "windowTitle": "uyw.exe",
+    "igdbId": "28113",
+    "twitchCategoryId": "494859"
+  },
+  {
     "processName": "teardown.exe",
     "windowTitle": "teardown.exe",
     "igdbId": "122666",
