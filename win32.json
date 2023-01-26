@@ -28,5 +28,23 @@
     "windowTitle": "teardown.exe",
     "igdbId": "122666",
     "twitchCategoryId": "514795"
+  },
+  {
+    "processName": "RocketLeague.exe",
+    "windowTitle": "RocketLeague.exe",
+    "igdbId": "11198",
+    "twitchCategoryId": "30921"
+  },
+  {
+    "processName": "FortniteClient-Win64-Shipping.exe",
+    "windowTitle": "FortniteClient-Win64-Shipping.exe",
+    "igdbId": "1905",
+    "twitchCategoryId": "33214"
+  },
+  {
+    "processName": "r5apex.exe",
+    "windowTitle": "r5apex.exe",
+    "igdbId": "114795",
+    "twitchCategoryId": "511224"
   }
 ]
