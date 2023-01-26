@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "F1_2020_dx12.exe",
+    "windowTitle": "F1_2020_dx12.exe",
+    "igdbId": "132205",
+    "twitchCategoryId": "517174"
   }
 ]
