@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "Asseto Corsa.exe",
+    "windowTitle": "Asseto Corsa.exe",
+    "igdbId": "5597",
+    "twitchCategoryId": "313197"
   }
 ]
