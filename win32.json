@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "FortniteClient-Win64-Shipping.exe",
+    "windowTitle": "FortniteClient-Win64-Shipping.exe",
+    "igdbId": "1905",
+    "twitchCategoryId": "33214"
   }
 ]
