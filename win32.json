@@ -24,6 +24,12 @@
     "twitchCategoryId": "519103"
   },
   {
+    "processName": "hlvr.exe",
+    "windowTitle": "hlvr.exe",
+    "igdbId": "126098",
+    "twitchCategoryId": "515195"
+  },
+  {
     "processName": "ktane.exe",
     "windowTitle": "ktane.exe",
     "igdbId": "13226",
