@@ -24,6 +24,12 @@
     "twitchCategoryId": "519103"
   },
   {
+    "processName": "AssettoCorsa.exe",
+    "windowTitle": "AssettoCorsa.exe",
+    "igdbId": "5597",
+    "twitchCategoryId": "313197"
+  },
+  {
     "processName": "FallGuys_client.exe",
     "windowTitle": "FallGuys_client.exe",
     "igdbId": "119313",
