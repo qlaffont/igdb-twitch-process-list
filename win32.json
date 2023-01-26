@@ -22,5 +22,11 @@
     "windowTitle": "PowerWashSimulator.exe",
     "igdbId": "138590",
     "twitchCategoryId": "519103"
+  },
+  {
+    "processName": "ktane.exe",
+    "windowTitle": "ktane.exe",
+    "igdbId": "13226",
+    "twitchCategoryId": "461492"
   }
 ]
