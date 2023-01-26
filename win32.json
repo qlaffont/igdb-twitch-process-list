@@ -24,6 +24,12 @@
     "twitchCategoryId": "519103"
   },
   {
+    "processName": "teardown.exe",
+    "windowTitle": "teardown.exe",
+    "igdbId": "122666",
+    "twitchCategoryId": "514795"
+  },
+  {
     "processName": "RocketLeague.exe",
     "windowTitle": "RocketLeague.exe",
     "igdbId": "11198",
