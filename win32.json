@@ -24,6 +24,12 @@
     "twitchCategoryId": "519103"
   },
   {
+    "processName": "csgo.exe",
+    "windowTitle": "csgo.exe",
+    "igdbId": "1372",
+    "twitchCategoryId": "32399"
+  },
+  {
     "processName": "F1_2020_dx12.exe",
     "windowTitle": "F1_2020_dx12.exe",
     "igdbId": "132205",
