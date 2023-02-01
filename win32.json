@@ -124,5 +124,11 @@
     "windowTitle": "VALORANT.exe",
     "igdbId": "126459",
     "twitchCategoryId": "516575"
+  },
+  {
+    "processName": "SNAP.exe",
+    "windowTitle": "SNAP.exe",
+    "igdbId": "202279",
+    "twitchCategoryId": "1743359147"
   }
 ]
