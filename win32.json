@@ -130,5 +130,11 @@
     "windowTitle": "SNAP.exe",
     "igdbId": "202279",
     "twitchCategoryId": "1743359147"
+  },
+  {
+    "processName": "Minecraft.exe",
+    "windowTitle": "Minecraft.exe",
+    "igdbId": "121",
+    "twitchCategoryId": "27471"
   }
 ]
