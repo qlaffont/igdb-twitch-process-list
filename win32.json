@@ -136,5 +136,11 @@
     "windowTitle": "Minecraft.exe",
     "igdbId": "121",
     "twitchCategoryId": "27471"
+  },
+  {
+    "processName": "Cuphead.exe",
+    "windowTitle": "Cuphead.exe",
+    "igdbId": "9061",
+    "twitchCategoryId": "459064"
   }
 ]
