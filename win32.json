@@ -1,5 +1,11 @@
 [
   {
+    "processName": "Phasmophobia.exe",
+    "windowTitle": "Phasmophobia.exe",
+    "igdbId": "132516",
+    "twitchCategoryId": "518184"
+  },
+  {
     "processName": "cod.exe",
     "windowTitle": "cod.exe",
     "igdbId": "200165",
