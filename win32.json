@@ -166,5 +166,11 @@
     "windowTitle": "Cuphead.exe",
     "igdbId": "9061",
     "twitchCategoryId": "459064"
+  },
+  {
+    "processName": "nxplayer.bin",
+    "windowTitle": "nxplayer.bin",
+    "igdbId": "",
+    "twitchCategoryId": "1469308723"
   }
 ]
