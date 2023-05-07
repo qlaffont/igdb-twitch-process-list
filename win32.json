@@ -166,5 +166,11 @@
     "windowTitle": "Cuphead.exe",
     "igdbId": "9061",
     "twitchCategoryId": "459064"
+  },
+  {
+    "processName": "GenshinImpact.exe",
+    "windowTitle": "GenshinImpact.exe",
+    "igdbId": "119277",
+    "twitchCategoryId": "513181"
   }
 ]
