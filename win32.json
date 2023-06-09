@@ -172,5 +172,11 @@
     "windowTitle": "GenshinImpact.exe",
     "igdbId": "119277",
     "twitchCategoryId": "513181"
+  },
+  {
+    "processName": "Hellcoming.exe",
+    "windowTitle": "Hellcoming.exe",
+    "igdbId": "185336",
+    "twitchCategoryId": "641272854"
   }
 ]
