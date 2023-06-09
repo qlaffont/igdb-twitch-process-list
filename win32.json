@@ -172,5 +172,11 @@
     "windowTitle": "GenshinImpact.exe",
     "igdbId": "119277",
     "twitchCategoryId": "513181"
+  },
+  {
+    "processName": "Ghost Watchers.exe",
+    "windowTitle": "Ghost Watchers.exe",
+    "igdbId": "189920",
+    "twitchCategoryId": "790163050"
   }
 ]
