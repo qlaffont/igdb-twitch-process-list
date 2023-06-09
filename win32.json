@@ -172,5 +172,11 @@
     "windowTitle": "GenshinImpact.exe",
     "igdbId": "119277",
     "twitchCategoryId": "513181"
+  },
+  {
+    "processName": "Demonologist.exe",
+    "windowTitle": "Demonologist.exe",
+    "igdbId": "241332",
+    "twitchCategoryId": "1286840579"
   }
 ]
