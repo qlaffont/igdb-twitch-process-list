@@ -172,5 +172,11 @@
     "windowTitle": "GenshinImpact.exe",
     "igdbId": "119277",
     "twitchCategoryId": "513181"
+  },
+  {
+    "processName": "In Silence.exe",
+    "windowTitle": "In Silence.exe",
+    "igdbId": "140038",
+    "twitchCategoryId": "2010603021"
   }
 ]
