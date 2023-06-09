@@ -172,5 +172,11 @@
     "windowTitle": "GenshinImpact.exe",
     "igdbId": "119277",
     "twitchCategoryId": "513181"
+  },
+  {
+    "processName": "DEVOUR.exe",
+    "windowTitle": "DEVOUR.exe",
+    "igdbId": "139708",
+    "twitchCategoryId": "836519689"
   }
 ]
