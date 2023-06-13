@@ -6,60 +6,6 @@
     "twitchCategoryId": "503456"
   },
   {
-    "processName": "Gunfire Reborn.exe",
-    "windowTitle": "Gunfire Reborn.exe",
-    "igdbId": "134483",
-    "twitchCategoryId": "517645"
-  },
-  {
-    "processName": "FearTherapybf.exe",
-    "windowTitle": "FearTherapybf.exe",
-    "igdbId": "185995",
-    "twitchCategoryId": "819777302"
-  },
-  {
-    "processName": "Phasmophobia.exe",
-    "windowTitle": "Phasmophobia.exe",
-    "igdbId": "132516",
-    "twitchCategoryId": "518184"
-  },
-  {
-    "processName": "cod.exe",
-    "windowTitle": "cod.exe",
-    "igdbId": "200165",
-    "twitchCategoryId": "1678052513"
-  },
-  {
-    "processName": "sp22-cod.exe",
-    "windowTitle": "sp22-cod.exe",
-    "igdbId": "200165",
-    "twitchCategoryId": "1678052513"
-  },
-  {
-    "processName": "Inscryption.exe",
-    "windowTitle": "Inscryption.exe",
-    "igdbId": "139090",
-    "twitchCategoryId": "1147745783"
-  },
-  {
-    "processName": "PowerWashSimulator.exe",
-    "windowTitle": "PowerWashSimulator.exe",
-    "igdbId": "138590",
-    "twitchCategoryId": "519103"
-  },
-  {
-    "processName": "csgo.exe",
-    "windowTitle": "csgo.exe",
-    "igdbId": "1372",
-    "twitchCategoryId": "32399"
-  },
-  {
-    "processName": "F1_2020_dx12.exe",
-    "windowTitle": "F1_2020_dx12.exe",
-    "igdbId": "132205",
-    "twitchCategoryId": "517174"
-  },
-  {
     "processName": "Asseto Corsa.exe",
     "windowTitle": "Asseto Corsa.exe",
     "igdbId": "5597",
@@ -72,10 +18,58 @@
     "twitchCategoryId": "313197"
   },
   {
+    "processName": "cod.exe",
+    "windowTitle": "cod.exe",
+    "igdbId": "200165",
+    "twitchCategoryId": "1678052513"
+  },
+  {
+    "processName": "csgo.exe",
+    "windowTitle": "csgo.exe",
+    "igdbId": "1372",
+    "twitchCategoryId": "32399"
+  },
+  {
+    "processName": "Cuphead.exe",
+    "windowTitle": "Cuphead.exe",
+    "igdbId": "9061",
+    "twitchCategoryId": "459064"
+  },
+  {
+    "processName": "Demonologist.exe",
+    "windowTitle": "Demonologist.exe",
+    "igdbId": "241332",
+    "twitchCategoryId": "1286840579"
+  },
+  {
+    "processName": "DEVOUR.exe",
+    "windowTitle": "DEVOUR.exe",
+    "igdbId": "139708",
+    "twitchCategoryId": "836519689"
+  },
+  {
+    "processName": "F1_2020_dx12.exe",
+    "windowTitle": "F1_2020_dx12.exe",
+    "igdbId": "132205",
+    "twitchCategoryId": "517174"
+  },
+  {
     "processName": "FallGuys_client.exe",
     "windowTitle": "FallGuys_client.exe",
     "igdbId": "119313",
     "twitchCategoryId": "512980"
+  },
+  {
+    "processName": "FearTherapybf.exe",
+    "windowTitle": "FearTherapybf.exe",
+    "igdbId": "185995",
+    "twitchCategoryId": "819777302"
+  },
+  {
+    "processName": "FortniteClient-Win64-Shipping.exe",
+    "windowTitle": "FortniteClient-Win64-Shipping.exe",
+    "igdbId": "1905",
+    "twitchCategoryId": "33214"
   },
   {
     "processName": "Gang Beasts.exe",
@@ -84,10 +78,40 @@
     "twitchCategoryId": "459527"
   },
   {
+    "processName": "GenshinImpact.exe",
+    "windowTitle": "GenshinImpact.exe",
+    "igdbId": "119277",
+    "twitchCategoryId": "513181"
+  },
+  {
+    "processName": "Ghost Exorcism Inc.exe",
+    "windowTitle": "Ghost Exorcism Inc.exe",
+    "igdbId": "151868",
+    "twitchCategoryId": "1239774436"
+  },
+  {
+    "processName": "Ghost Watchers.exe",
+    "windowTitle": "Ghost Watchers.exe",
+    "igdbId": "189920",
+    "twitchCategoryId": "790163050"
+  },
+  {
     "processName": "GolfIt.exe",
     "windowTitle": "GolfIt.exe",
     "igdbId": "30099",
     "twitchCategoryId": "495764"
+  },
+  {
+    "processName": "Gunfire Reborn.exe",
+    "windowTitle": "Gunfire Reborn.exe",
+    "igdbId": "134483",
+    "twitchCategoryId": "517645"
+  },
+  {
+    "processName": "Hellcoming.exe",
+    "windowTitle": "Hellcoming.exe",
+    "igdbId": "185336",
+    "twitchCategoryId": "641272854"
   },
   {
     "processName": "hlvr.exe",
@@ -96,10 +120,28 @@
     "twitchCategoryId": "515195"
   },
   {
+    "processName": "In Silence.exe",
+    "windowTitle": "In Silence.exe",
+    "igdbId": "140038",
+    "twitchCategoryId": "2010603021"
+  },
+  {
+    "processName": "Inscryption.exe",
+    "windowTitle": "Inscryption.exe",
+    "igdbId": "139090",
+    "twitchCategoryId": "1147745783"
+  },
+  {
     "processName": "ktane.exe",
     "windowTitle": "ktane.exe",
     "igdbId": "13226",
     "twitchCategoryId": "461492"
+  },
+  {
+    "processName": "Minecraft.exe",
+    "windowTitle": "Minecraft.exe",
+    "igdbId": "121",
+    "twitchCategoryId": "27471"
   },
   {
     "processName": "NeonAbyss.exe",
@@ -114,28 +156,16 @@
     "twitchCategoryId": "495563"
   },
   {
-    "processName": "uyw.exe",
-    "windowTitle": "uyw.exe",
-    "igdbId": "28113",
-    "twitchCategoryId": "494859"
+    "processName": "Phasmophobia.exe",
+    "windowTitle": "Phasmophobia.exe",
+    "igdbId": "132516",
+    "twitchCategoryId": "518184"
   },
   {
-    "processName": "teardown.exe",
-    "windowTitle": "teardown.exe",
-    "igdbId": "122666",
-    "twitchCategoryId": "514795"
-  },
-  {
-    "processName": "RocketLeague.exe",
-    "windowTitle": "RocketLeague.exe",
-    "igdbId": "11198",
-    "twitchCategoryId": "30921"
-  },
-  {
-    "processName": "FortniteClient-Win64-Shipping.exe",
-    "windowTitle": "FortniteClient-Win64-Shipping.exe",
-    "igdbId": "1905",
-    "twitchCategoryId": "33214"
+    "processName": "PowerWashSimulator.exe",
+    "windowTitle": "PowerWashSimulator.exe",
+    "igdbId": "138590",
+    "twitchCategoryId": "519103"
   },
   {
     "processName": "r5apex.exe",
@@ -144,10 +174,10 @@
     "twitchCategoryId": "511224"
   },
   {
-    "processName": "VALORANT.exe",
-    "windowTitle": "VALORANT.exe",
-    "igdbId": "126459",
-    "twitchCategoryId": "516575"
+    "processName": "RocketLeague.exe",
+    "windowTitle": "RocketLeague.exe",
+    "igdbId": "11198",
+    "twitchCategoryId": "30921"
   },
   {
     "processName": "SNAP.exe",
@@ -156,27 +186,27 @@
     "twitchCategoryId": "1743359147"
   },
   {
-    "processName": "Minecraft.exe",
-    "windowTitle": "Minecraft.exe",
-    "igdbId": "121",
-    "twitchCategoryId": "27471"
+    "processName": "sp22-cod.exe",
+    "windowTitle": "sp22-cod.exe",
+    "igdbId": "200165",
+    "twitchCategoryId": "1678052513"
   },
   {
-    "processName": "Cuphead.exe",
-    "windowTitle": "Cuphead.exe",
-    "igdbId": "9061",
-    "twitchCategoryId": "459064"
+    "processName": "teardown.exe",
+    "windowTitle": "teardown.exe",
+    "igdbId": "122666",
+    "twitchCategoryId": "514795"
   },
   {
-    "processName": "GenshinImpact.exe",
-    "windowTitle": "GenshinImpact.exe",
-    "igdbId": "119277",
-    "twitchCategoryId": "513181"
+    "processName": "uyw.exe",
+    "windowTitle": "uyw.exe",
+    "igdbId": "28113",
+    "twitchCategoryId": "494859"
   },
   {
-    "processName": "Ghost Exorcism Inc.exe",
-    "windowTitle": "Ghost Exorcism Inc.exe",
-    "igdbId": "151868",
-    "twitchCategoryId": "1239774436"
+    "processName": "VALORANT.exe",
+    "windowTitle": "VALORANT.exe",
+    "igdbId": "126459",
+    "twitchCategoryId": "516575"
   }
 ]
