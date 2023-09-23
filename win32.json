@@ -198,6 +198,12 @@
     "twitchCategoryId": "1678052513"
   },
   {
+    "processName": "svchost.exe",
+    "windowTitle": "svchost.exe",
+    "igdbId": "621",
+    "twitchCategoryId": "1494"
+  },
+  {
     "processName": "teardown.exe",
     "windowTitle": "teardown.exe",
     "igdbId": "122666",
