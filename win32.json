@@ -36,6 +36,12 @@
     "twitchCategoryId": "1469308723"
   },
   {
+    "processName": "cs2.exe",
+    "windowTitle": "cs2.exe",
+    "igdbId": "",
+    "twitchCategoryId": "32399"
+  },
+  {
     "processName": "csgo.exe",
     "windowTitle": "csgo.exe",
     "igdbId": "1372",
