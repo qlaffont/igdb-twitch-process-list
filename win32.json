@@ -198,6 +198,12 @@
     "twitchCategoryId": "1743359147"
   },
   {
+    "processName": "SnowRunner.exe",
+    "windowTitle": "SnowRunner.exe",
+    "igdbId": "107215",
+    "twitchCategoryId": "515066"
+  },
+  {
     "processName": "sp22-cod.exe",
     "windowTitle": "sp22-cod.exe",
     "igdbId": "200165",
