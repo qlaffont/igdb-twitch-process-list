@@ -12,6 +12,12 @@
     "twitchCategoryId": "503456"
   },
   {
+    "processName": "AMS2AVX.exe",
+    "windowTitle": "AMS2AVX.exe",
+    "igdbId": "119811",
+    "twitchCategoryId": "516921"
+  },
+  {
     "processName": "Asseto Corsa.exe",
     "windowTitle": "Asseto Corsa.exe",
     "igdbId": "5597",
