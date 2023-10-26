@@ -244,5 +244,11 @@
     "windowTitle": "VALORANT.exe",
     "igdbId": "126459",
     "twitchCategoryId": "516575"
+  },
+  {
+    "processName": "Viewfinder.exe",
+    "windowTitle": "Viewfinder.exe",
+    "igdbId": "142549",
+    "twitchCategoryId": "1089659237"
   }
 ]
