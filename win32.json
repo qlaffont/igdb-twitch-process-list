@@ -72,6 +72,12 @@
     "twitchCategoryId": "836519689"
   },
   {
+    "processName": "Discovery.exe",
+    "windowTitle": "Discovery.exe",
+    "igdbId": "214417",
+    "twitchCategoryId": "1910103699"
+  },
+  {
     "processName": "F1_2020_dx12.exe",
     "windowTitle": "F1_2020_dx12.exe",
     "igdbId": "132205",
