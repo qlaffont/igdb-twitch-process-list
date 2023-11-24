@@ -60,6 +60,12 @@
     "twitchCategoryId": "459064"
   },
   {
+    "processName": "Cyberpunk2077.exe",
+    "windowTitle": "Cyberpunk2077.exe",
+    "igdbId": "1877",
+    "twitchCategoryId": "65876"
+  },
+  {
     "processName": "Demonologist.exe",
     "windowTitle": "Demonologist.exe",
     "igdbId": "241332",
