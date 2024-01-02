@@ -216,6 +216,12 @@
     "twitchCategoryId": "511224"
   },
   {
+    "processName": "ReadyOrNot.exe",
+    "windowTitle": "ReadyOrNot.exe",
+    "igdbId": "28489",
+    "twitchCategoryId": "511701"
+  },
+  {
     "processName": "RocketLeague.exe",
     "windowTitle": "RocketLeague.exe",
     "igdbId": "11198",
