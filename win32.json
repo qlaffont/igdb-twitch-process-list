@@ -192,6 +192,12 @@
     "twitchCategoryId": "512017"
   },
   {
+    "processName": "ParagonClient-Win64-Shipping.exe",
+    "windowTitle": "ParagonClient-Win64-Shipping.exe",
+    "igdbId": "130500",
+    "twitchCategoryId": "515877"
+  },
+  {
     "processName": "pCARS2AVX.exe",
     "windowTitle": "pCARS2AVX.exe",
     "igdbId": "26709",
