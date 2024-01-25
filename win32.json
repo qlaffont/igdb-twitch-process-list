@@ -222,6 +222,12 @@
     "twitchCategoryId": "511224"
   },
   {
+    "processName": "RainbowSix.exe",
+    "windowTitle": "RainbowSix.exe",
+    "igdbId": "7360",
+    "twitchCategoryId": "460630"
+  },
+  {
     "processName": "ReadyOrNot.exe",
     "windowTitle": "ReadyOrNot.exe",
     "igdbId": "28489",
