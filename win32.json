@@ -276,6 +276,12 @@
     "twitchCategoryId": "515066"
   },
   {
+    "processName": "SoTGame.exe",
+    "windowTitle": "SoTGame.exe",
+    "igdbId": "11137",
+    "twitchCategoryId": "490377"
+  },
+  {
     "processName": "sp22-cod.exe",
     "windowTitle": "sp22-cod.exe",
     "igdbId": "200165",
