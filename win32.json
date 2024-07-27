@@ -316,5 +316,11 @@
     "windowTitle": "Viewfinder.exe",
     "igdbId": "142549",
     "twitchCategoryId": "1089659237"
+  },
+  {
+    "processName": "ZenlessZoneZero.exe",
+    "windowTitle": "ZenlessZoneZero.exe",
+    "igdbId": "200551",
+    "twitchCategoryId": "456845141"
   }
 ]
