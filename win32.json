@@ -264,6 +264,12 @@
     "twitchCategoryId": "511701"
   },
   {
+    "processName": "RobloxPlayerBeta.exe",
+    "windowTitle": "RobloxPlayerBeta.exe",
+    "igdbId": "17269",
+    "twitchCategoryId": "23020"
+  },
+  {
     "processName": "RocketLeague.exe",
     "windowTitle": "RocketLeague.exe",
     "igdbId": "11198",
