@@ -108,6 +108,12 @@
     "twitchCategoryId": "819777302"
   },
   {
+    "processName": "FlameSteamClient-Win64-Shipping.exe",
+    "windowTitle": "FlameSteamClient-Win64-Shipping.exe",
+    "igdbId": "103328",
+    "twitchCategoryId": "506489"
+  },
+  {
     "processName": "FortniteClient-Win64-Shipping.exe",
     "windowTitle": "FortniteClient-Win64-Shipping.exe",
     "igdbId": "1905",
