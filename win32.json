@@ -36,6 +36,12 @@
     "twitchCategoryId": "505963"
   },
   {
+    "processName": "blender.exe",
+    "windowTitle": "blender.exe",
+    "igdbId": "",
+    "twitchCategoryId": "509660"
+  },
+  {
     "processName": "cod.exe",
     "windowTitle": "cod.exe",
     "igdbId": "200165",
