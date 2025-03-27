@@ -318,6 +318,12 @@
     "twitchCategoryId": "1678052513"
   },
   {
+    "processName": "steam.exe",
+    "windowTitle": "steam.exe",
+    "igdbId": "37424",
+    "twitchCategoryId": "500405"
+  },
+  {
     "processName": "teardown.exe",
     "windowTitle": "teardown.exe",
     "igdbId": "122666",
