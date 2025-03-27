@@ -54,6 +54,12 @@
     "twitchCategoryId": "1469308723"
   },
   {
+    "processName": "conhost.exe",
+    "windowTitle": "conhost.exe",
+    "igdbId": "37424",
+    "twitchCategoryId": "500405"
+  },
+  {
     "processName": "cs2.exe",
     "windowTitle": "cs2.exe",
     "igdbId": "",
