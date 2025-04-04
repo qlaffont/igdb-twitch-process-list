@@ -354,6 +354,12 @@
     "twitchCategoryId": "1089659237"
   },
   {
+    "processName": "yuzu.exe",
+    "windowTitle": "yuzu.exe",
+    "igdbId": "26758",
+    "twitchCategoryId": "493997"
+  },
+  {
     "processName": "ZenlessZoneZero.exe",
     "windowTitle": "ZenlessZoneZero.exe",
     "igdbId": "200551",
