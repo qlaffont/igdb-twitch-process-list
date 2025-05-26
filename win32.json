@@ -156,6 +156,12 @@
     "twitchCategoryId": "790163050"
   },
   {
+    "processName": "gmod.exe",
+    "windowTitle": "gmod.exe",
+    "igdbId": "3278",
+    "twitchCategoryId": "18846"
+  },
+  {
     "processName": "GolfIt.exe",
     "windowTitle": "GolfIt.exe",
     "igdbId": "30099",
