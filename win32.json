@@ -288,6 +288,12 @@
     "twitchCategoryId": "511701"
   },
   {
+    "processName": "REPO.exe",
+    "windowTitle": "REPO.exe",
+    "igdbId": "332780",
+    "twitchCategoryId": "1294658629"
+  },
+  {
     "processName": "RobloxPlayerBeta.exe",
     "windowTitle": "RobloxPlayerBeta.exe",
     "igdbId": "17269",
