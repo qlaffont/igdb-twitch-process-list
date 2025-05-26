@@ -162,6 +162,12 @@
     "twitchCategoryId": "495764"
   },
   {
+    "processName": "GTAIV.exe",
+    "windowTitle": "GTAIV.exe",
+    "igdbId": "731",
+    "twitchCategoryId": "18707"
+  },
+  {
     "processName": "GTFO.exe",
     "windowTitle": "GTFO.exe",
     "igdbId": "36646",
