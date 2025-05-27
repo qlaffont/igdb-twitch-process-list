@@ -324,6 +324,12 @@
     "twitchCategoryId": "1678052513"
   },
   {
+    "processName": "starwarsbattlefrontii.exe",
+    "windowTitle": "starwarsbattlefrontii.exe",
+    "igdbId": "142",
+    "twitchCategoryId": "6490"
+  },
+  {
     "processName": "teardown.exe",
     "windowTitle": "teardown.exe",
     "igdbId": "122666",
