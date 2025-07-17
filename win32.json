@@ -1,5 +1,11 @@
 [
   {
+    "processName": "BladeRunnerRemastered.exe",
+    "windowTitle": "BladeRunnerRemastered.exe",
+    "igdbId": "131847",
+    "twitchCategoryId": "1162520919"
+  },
+  {
     "processName": "detnoir-Win64-Shipping.exe",
     "windowTitle": "detnoir-Win64-Shipping.exe",
     "igdbId": "290911",
