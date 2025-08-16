@@ -1,23 +1,5 @@
 [
   {
-    "processName": "BladeRunnerRemastered.exe",
-    "windowTitle": "BladeRunnerRemastered.exe",
-    "igdbId": "131847",
-    "twitchCategoryId": "1162520919"
-  },
-  {
-    "processName": "detnoir-Win64-Shipping.exe",
-    "windowTitle": "detnoir-Win64-Shipping.exe",
-    "igdbId": "290911",
-    "twitchCategoryId": "811337843"
-  },
-  {
-    "processName": "ds.exe",
-    "windowTitle": "ds.exe",
-    "igdbId": "19564",
-    "twitchCategoryId": "494364"
-  },
-  {
     "processName": "A Dance of Fire and Ice.exe",
     "windowTitle": "A Dance of Fire and Ice.exe",
     "igdbId": "114392",
@@ -52,6 +34,12 @@
     "windowTitle": "AtomicHeart.exe",
     "igdbId": "76747",
     "twitchCategoryId": "505963"
+  },
+  {
+    "processName": "BladeRunnerRemastered.exe",
+    "windowTitle": "BladeRunnerRemastered.exe",
+    "igdbId": "131847",
+    "twitchCategoryId": "1162520919"
   },
   {
     "processName": "blender.exe",
@@ -102,6 +90,12 @@
     "twitchCategoryId": "1286840579"
   },
   {
+    "processName": "detnoir-Win64-Shipping.exe",
+    "windowTitle": "detnoir-Win64-Shipping.exe",
+    "igdbId": "290911",
+    "twitchCategoryId": "811337843"
+  },
+  {
     "processName": "DEVOUR.exe",
     "windowTitle": "DEVOUR.exe",
     "igdbId": "139708",
@@ -112,6 +106,18 @@
     "windowTitle": "Discovery.exe",
     "igdbId": "214417",
     "twitchCategoryId": "1910103699"
+  },
+  {
+    "processName": "ds.exe",
+    "windowTitle": "ds.exe",
+    "igdbId": "19564",
+    "twitchCategoryId": "494364"
+  },
+  {
+    "processName": "Expedition33_Steam.exe",
+    "windowTitle": "Expedition33_Steam.exe",
+    "igdbId": "305152",
+    "twitchCategoryId": "36799602"
   },
   {
     "processName": "F1_2020_dx12.exe",
