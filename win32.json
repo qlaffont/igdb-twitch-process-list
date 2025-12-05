@@ -36,6 +36,12 @@
     "twitchCategoryId": "505963"
   },
   {
+    "processName": "bf6.exe",
+    "windowTitle": "bf6.exe",
+    "igdbId": "317407",
+    "twitchCategoryId": "168648543"
+  },
+  {
     "processName": "BladeRunnerRemastered.exe",
     "windowTitle": "BladeRunnerRemastered.exe",
     "igdbId": "131847",
